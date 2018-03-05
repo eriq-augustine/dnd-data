@@ -1,0 +1,628 @@
+Acid Arrow	PHB 253
+Acid Fog	PHB 196
+Acid Splash	PHB 196
+Aid	PHB 196
+Air Walk	PHB 196
+Alarm	PHB 197
+Align Weapon	PHB 197
+Alter Self	PHB 197
+Analyze Dweomer	PHB 197
+Animal Growth	PHB 198
+Animal Messenger	PHB 198
+Animal Shapes	PHB 198
+Animal Trance	PHB 198
+Animate Dead	PHB 198
+Animate Objects	PHB 199
+Animate Plants	PHB 199
+Animate Rope	PHB 199
+Antilife Shell	PHB 199
+Antimagic Field	PHB 200
+Antipathy	PHB 200
+Antiplant Shell	PHB 200
+Arcane Eye	PHB 200
+Arcane Lock	PHB 200
+Arcane Mark	PHB 201
+Arcane Sight (Greater)	PHB 201
+Arcane Sight, Greater	PHB 201
+Arcane Sight	PHB 201
+Astral Projection	PHB 201
+Atonement	PHB 201
+Augury	PHB 202
+Awaken	PHB 202
+Baleful Polymorph	PHB 202
+Bane	PHB 203
+Banishment	PHB 203
+Barkskin	PHB 203
+Bear's Endurance (Mass)	PHB 203
+Bear's Endurance, Mass	PHB 203
+Bear's Endurance	PHB 203
+Bestow Curse	PHB 203
+Binding	PHB 204
+Black Tentacles	PHB 228
+Blade Barrier	PHB 205
+Blasphemy	PHB 205
+Bless	PHB 205
+Bless Water	PHB 205
+Bless Weapon	PHB 205
+Blight	PHB 206
+Blindness/Deafness	PHB 206
+Blink	PHB 206
+Blur	PHB 206
+Break Enchantment	PHB 207
+Bull's Strength (Mass)	PHB 207
+Bull's Strength, Mass	PHB 207
+Bull's Strength	PHB 207
+Burning Hands	PHB 207
+Call Lightning	PHB 207
+Call Lightning Storm	PHB 207
+Calm Animals	PHB 207
+Calm Emotions	PHB 207
+Cat's Grace (Mass)	PHB 208
+Cat's Grace, Mass	PHB 208
+Cat's Grace	PHB 208
+Cause Fear	PHB 208
+Chain Lightning	PHB 208
+Changestaff	PHB 208
+Chaos Hammer	PHB 208
+Charm Animal	PHB 208
+Charm Monster (Mass)	PHB 209
+Charm Monster, Mass	PHB 209
+Charm Monster	PHB 208
+Charm Person	PHB 209
+Chill Metal	PHB 209
+Chill Touch	PHB 209
+Circle of Death	PHB 209
+Clairaudience/Clairvoyance	PHB 209
+Clenched Fist	PHB 203
+Cloak of Chaos	PHB 210
+Clone	PHB 210
+Cloudkill	PHB 210
+Color Spray	PHB 210
+Command, Greater	PHB 211
+Command	PHB 211
+Command Plants	PHB 211
+Command Undead	PHB 211
+Commune	PHB 211
+Commune with Nature	PHB 211
+Comprehend Languages	PHB 212
+Cone of Cold	PHB 212
+Confusion, Lesser	PHB 212
+Confusion	PHB 212
+Consecrate	PHB 212
+Contact Other Plane	PHB 212
+Contagion	PHB 213
+Contingency	PHB 213
+Continual Flame	PHB 213
+Control Plants	PHB 213
+Control Undead	PHB 214
+Control Water	PHB 214
+Control Weather	PHB 214
+Control Winds	PHB 214
+Create Food and Water	PHB 214
+Create Greater Undead	PHB 215
+Create Undead	PHB 215
+Create Water	PHB 215
+Creeping Doom	PHB 215
+Crushing Despair	PHB 215
+Crushing Hand	PHB 203
+Cure Critical Wounds, Mass	PHB 215
+Cure Critical Wounds	PHB 215
+Cure Light Wounds, Mass	PHB 216
+Cure Light Wounds	PHB 215
+Cure Minor Wounds	PHB 216
+Cure Moderate Wounds, Mass	PHB 216
+Cure Moderate Wounds	PHB 216
+Cure Serious Wounds, Mass	PHB 216
+Cure Serious Wounds	PHB 216
+Dancing Lights	PHB 216
+Darkness	PHB 216
+Darkvision	PHB 216
+Daylight	PHB 216
+Daze Monster	PHB 217
+Daze	PHB 217
+Death Knell	PHB 217
+Death Ward	PHB 217
+Deathwatch	PHB 217
+Deeper Darkness	PHB 217
+Deep Slumber	PHB 217
+Delayed Blast Fireball	PHB 217
+Delay Poison	PHB 217
+Demand	PHB 217
+Desecrate	PHB 218
+Destruction	PHB 218
+Detect Animals or Plants	PHB 218
+Detect Chaos	PHB 218
+Detect Evil	PHB 218
+Detect Good	PHB 219
+Detect Law	PHB 219
+Detect Magic	PHB 219
+Detect Poison	PHB 219
+Detect Scrying	PHB 219
+Detect Secret Doors	PHB 220
+Detect Snares and Pits	PHB 220
+Detect Thoughts	PHB 220
+Detect Undead	PHB 220
+Dictum	PHB 220
+Dimensional Anchor	PHB 221
+Dimensional Lock	PHB 221
+Dimension Door	PHB 221
+Diminish Plants	PHB 221
+Discern Lies	PHB 221
+Discern Location	PHB 222
+Disguise Self	PHB 222
+Disintegrate	PHB 222
+Dismissal	PHB 222
+Dispel Chaos	PHB 222
+Dispel Evil	PHB 222
+Dispel Good	PHB 222
+Dispel Law	PHB 223
+Dispel Magic (Greater)	PHB 223
+Dispel Magic, Greater	PHB 223
+Dispel Magic	PHB 223
+Displacement	PHB 223
+Disrupting Weapon	PHB 223
+Disrupt Undead	PHB 223
+Divination	PHB 224
+Divine Favor	PHB 224
+Divine Power	PHB 224
+Dominate Animal	PHB 224
+Dominate Monster	PHB 224
+Dominate Person	PHB 224
+Doom	PHB 225
+Dream	PHB 225
+Eagle's Splendor (Mass)	PHB 225
+Eagle's Splendor, Mass	PHB 225
+Eagle's Splendor	PHB 225
+Earthquake	PHB 225
+Elemental Swarm	PHB 226
+Endure Elements	PHB 226
+Energy Drain	PHB 226
+Enervation	PHB 226
+Enlarge Person (Mass)	PHB 227
+Enlarge Person, Mass	PHB 227
+Enlarge Person	PHB 226
+Entangle	PHB 227
+Enthrall	PHB 227
+Entropic Shield	PHB 227
+Erase	PHB 227
+Ethereal Jaunt	PHB 227
+Etherealness	PHB 228
+Expeditious Retreat	PHB 228
+Explosive Runes	PHB 228
+Eyebite	PHB 228
+Fabricate	PHB 229
+Faerie Fire	PHB 229
+False Life	PHB 229
+False Vision	PHB 229
+Fear	PHB 229
+Feather Fall	PHB 229
+Feeblemind	PHB 229
+Find the Path	PHB 230
+Find Traps	PHB 230
+Finger of Death	PHB 230
+Fireball	PHB 231
+Fire Seeds	PHB 230
+Fire Shield	PHB 230
+Fire Storm	PHB 231
+Fire Trap	PHB 231
+Flame Arrow	PHB 231
+Flame Blade	PHB 231
+Flame Strike	PHB 231
+Flaming Sphere	PHB 232
+Flare	PHB 232
+Flesh to Stone	PHB 232
+Floating Disk	PHB 294
+Fly	PHB 232
+Fog Cloud	PHB 232
+Forbiddance	PHB 232
+Forcecage	PHB 233
+Forceful Hand	PHB 204
+Foresight	PHB 233
+Fox's Cunning (Mass)	PHB 233
+Fox's Cunning, Mass	PHB 233
+Fox's Cunning	PHB 233
+Freedom of Movement	PHB 233
+Freedom	PHB 233
+Freezing Sphere	PHB 258
+Gaseous Form	PHB 234
+Gate	PHB 234
+Geas (Lesser)	PHB 235
+Geas, Lesser	PHB 235
+Geas/Quest	PHB 234
+Gentle Repose	PHB 235
+Ghost Sound	PHB 235
+Ghoul Touch	PHB 235
+Giant Vermin	PHB 235
+Glibness	PHB 235
+Glitterdust	PHB 236
+Globe of Invulnerability (Lesser)	PHB 236
+Globe of Invulnerability, Lesser	PHB 236
+Globe of Invulnerability	PHB 236
+Glyph of Warding, Greater	PHB 237
+Glyph of Warding	PHB 236
+Goodberry	PHB 237
+Good Hope	PHB 237
+Grasping Hand	PHB 204
+Grease	PHB 237
+Guards and Wards	PHB 237
+Guidance	PHB 238
+Gust of Wind	PHB 238
+Hallow	PHB 238
+Hallucinatory Terrain	PHB 238
+Halt Undead	PHB 238
+Harm	PHB 239
+Haste	PHB 239
+Heal, Mass	PHB 239
+Heal Mount	PHB 239
+Heal	PHB 239
+Heat Metal	PHB 239
+Helping Hand	PHB 239
+Heroes' Feast	PHB 240
+Heroism (Greater)	PHB 240
+Heroism, Greater	PHB 240
+Heroism	PHB 240
+Hide from Animals	PHB 241
+Hide from Undead	PHB 241
+Hideous Laughter	PHB 292
+Hold Animal	PHB 241
+Hold Monster (Mass)	PHB 241
+Hold Monster, Mass	PHB 241
+Hold Monster	PHB 241
+Hold Person (Mass)	PHB 241
+Hold Person, Mass	PHB 241
+Hold Person	PHB 241
+Hold Portal	PHB 241
+Holy Aura	PHB 241
+Holy Smite	PHB 241
+Holy Sword	PHB 242
+Holy Word	PHB 242
+Horrid Wilting	PHB 242
+Hypnotic Pattern	PHB 242
+Hypnotism	PHB 242
+Ice Storm	PHB 243
+Identify	PHB 243
+Illusory Script	PHB 243
+Illusory Wall	PHB 243
+Imbue with Spell Ability	PHB 243
+Implosion	PHB 243
+Imprisonment	PHB 244
+Incendiary Cloud	PHB 244
+Inflict Critical Wounds, Mass	PHB 244
+Inflict Critical Wounds	PHB 244
+Inflict Light Wounds, Mass	PHB 244
+Inflict Light Wounds	PHB 244
+Inflict Minor Wounds	PHB 244
+Inflict Moderate Wounds, Mass	PHB 244
+Inflict Moderate Wounds	PHB 244
+Inflict Serious Wounds, Mass	PHB 244
+Inflict Serious Wounds	PHB 244
+Insanity	PHB 244
+Insect Plague	PHB 244
+Instant Summons	PHB 225
+Interposing Hand	PHB 204
+Invisibility (Greater)	PHB 245
+Invisibility, Greater	PHB 245
+Invisibility (Mass)	PHB 245
+Invisibility, Mass	PHB 245
+Invisibility	PHB 245
+Invisibility Purge	PHB 245
+Invisibility Sphere	PHB 245
+Iron Body	PHB 245
+Ironwood	PHB 246
+Irresistible Dance	PHB 259
+Jump	PHB 246
+Keen Edge	PHB 246
+Knock	PHB 246
+Know Direction	PHB 246
+Legend Lore	PHB 246
+Levitate	PHB 248
+Lightning Bolt	PHB 248
+Light	PHB 248
+Limited Wish	PHB 248
+Liveoak	PHB 248
+Locate Creature	PHB 249
+Locate Object	PHB 249
+Longstrider	PHB 249
+Mage Armor	PHB 249
+Mage Hand	PHB 249
+Mage's Disjunction	PHB 255
+Mage's Faithful Hound	PHB 255
+Mage's Lucubration	PHB 256
+Mage's Magnificent Mansion	PHB 256
+Mage's Private Sanctum	PHB 256
+Mage's Sword	PHB 256
+Magic Aura	PHB 257
+Magic Circle against Chaos	PHB 249
+Magic Circle against Evil	PHB 249
+Magic Circle against Good	PHB 250
+Magic Circle against Law	PHB 250
+Magic Fang, Greater	PHB 250
+Magic Fang	PHB 250
+Magic Jar	PHB 250
+Magic Missile	PHB 251
+Magic Mouth	PHB 251
+Magic Stone	PHB 251
+Magic Vestment	PHB 251
+Magic Weapon (Greater)	PHB 251
+Magic Weapon, Greater	PHB 251
+Magic Weapon	PHB 251
+Major Creation	PHB 252
+Major Image	PHB 252
+Make Whole	PHB 252
+Mark of Justice	PHB 252
+Maze	PHB 252
+Meld into Stone	PHB 252
+Mending	PHB 253
+Message	PHB 253
+Meteor Swarm	PHB 253
+Mind Blank	PHB 253
+Mind Fog	PHB 253
+Minor Creation	PHB 253
+Minor Image	PHB 254
+Miracle	PHB 254
+Mirage Arcana	PHB 254
+Mirror Image	PHB 254
+Misdirection	PHB 254
+Mislead	PHB 255
+Mnemonic Enhancer	PHB 268
+Modify Memory	PHB 255
+Moment of Prescience	PHB 255
+Mount	PHB 256
+Move Earth	PHB 257
+Neutralize Poison	PHB 257
+Nightmare	PHB 257
+Nondetection	PHB 257
+Obscure Object	PHB 258
+Obscuring Mist	PHB 258
+Open/Close	PHB 258
+Order's Wrath	PHB 258
+Overland Flight	PHB 259
+Owl's Wisdom (Mass)	PHB 259
+Owl's Wisdom	PHB 259
+Passwall	PHB 259
+Pass without Trace	PHB 259
+Permanency	PHB 259
+Permanent Image	PHB 260
+Persistent Image	PHB 260
+Phantasmal Killer	PHB 260
+Phantom Steed	PHB 260
+Phantom Trap	PHB 247
+Phase Door	PHB 261
+Planar Ally, Greater	PHB 261
+Planar Ally, Lesser	PHB 261
+Planar Ally	PHB 261
+Planar Binding (Greater)	PHB 261
+Planar Binding, Greater	PHB 261
+Planar Binding (Lesser)	PHB 261
+Planar Binding, Lesser	PHB 261
+Planar Binding	PHB 261
+Plane Shift	PHB 262
+Plant Growth	PHB 262
+Poison	PHB 262
+Polar Ray	PHB 262
+Polymorph Any Object	PHB 263
+Polymorph	PHB 263
+Power Word Blind	PHB 263
+Power Word Kill	PHB 263
+Power Word Stun	PHB 263
+Prayer	PHB 264
+Prestidigitation	PHB 264
+Prismatic Sphere	PHB 264
+Prismatic Spray	PHB 264
+Prismatic Wall	PHB 264
+Produce Flame	PHB 265
+Programmed Image	PHB 265
+Project Image	PHB 265
+Protection from Arrows	PHB 266
+Protection from Chaos	PHB 266
+Protection from Energy	PHB 266
+Protection from Evil	PHB 266
+Protection from Good	PHB 266
+Protection from Law	PHB 266
+Protection from Spells	PHB 266
+Prying Eyes (Greater)	PHB 267
+Prying Eyes, Greater	PHB 267
+Prying Eyes	PHB 266
+Purify Food and Drink	PHB 267
+Pyrotechnics	PHB 267
+Quench	PHB 267
+Rage	PHB 268
+Rainbow Pattern	PHB 268
+Raise Dead	PHB 268
+Ray of Enfeeblement	PHB 269
+Ray of Exhaustion	PHB 269
+Ray of Frost	PHB 269
+Read Magic	PHB 269
+Reduce Animal	PHB 269
+Reduce Person (Mass)	PHB 269
+Reduce Person, Mass	PHB 269
+Reduce Person	PHB 269
+Refuge	PHB 269
+Regenerate	PHB 270
+Reincarnate	PHB 270
+Remove Blindness/Deafness	PHB 270
+Remove Curse	PHB 270
+Remove Disease	PHB 271
+Remove Fear	PHB 271
+Remove Paralysis	PHB 271
+Repel Metal or Stone	PHB 271
+Repel Vermin	PHB 271
+Repel Wood	PHB 271
+Repulsion	PHB 271
+Resilient Sphere	PHB 258
+Resistance	PHB 272
+Resist Energy	PHB 272
+Restoration, Greater	PHB 272
+Restoration, Lesser	PHB 272
+Restoration	PHB 272
+Resurrection	PHB 272
+Reverse Gravity	PHB 273
+Righteous Might	PHB 273
+Rope Trick	PHB 273
+Sanctuary	PHB 274
+Scare	PHB 274
+Scintillating Pattern	PHB 274
+Scorching Ray	PHB 274
+Screen	PHB 274
+Scrying (Greater)	PHB 275
+Scrying, Greater	PHB 275
+Scrying	PHB 274
+Sculpt Sound	PHB 275
+Searing Light	PHB 275
+Secret Chest	PHB 247
+Secret Page	PHB 275
+Secure Shelter	PHB 247
+See Invisibility	PHB 275
+Seeming	PHB 275
+Sending	PHB 275
+Sepia Snake Sigil	PHB 276
+Sequester	PHB 276
+Shades	PHB 276
+Shadow Conjuration (Greater)	PHB 276
+Shadow Conjuration, Greater	PHB 276
+Shadow Conjuration	PHB 276
+Shadow Evocation (Greater)	PHB 277
+Shadow Evocation, Greater	PHB 277
+Shadow Evocation	PHB 277
+Shadow Walk	PHB 277
+Shambler	PHB 277
+Shapechange	PHB 277
+Shatter	PHB 278
+Shield of Faith	PHB 278
+Shield of Law	PHB 278
+Shield Other	PHB 278
+Shield	PHB 278
+Shillelagh	PHB 278
+Shocking Grasp	PHB 279
+Shout (Greater)	PHB 279
+Shout, Greater	PHB 279
+Shout	PHB 279
+Shrink Item	PHB 279
+Silence	PHB 279
+Silent Image	PHB 279
+Simulacrum	PHB 279
+Slay Living	PHB 280
+Sleep	PHB 280
+Sleet Storm	PHB 280
+Slow	PHB 280
+Snare	PHB 280
+Soften Earth and Stone	PHB 280
+Solid Fog	PHB 281
+Song of Discord	PHB 281
+Soul Bind	PHB 281
+Sound Burst	PHB 281
+Speak with Animals	PHB 281
+Speak with Dead	PHB 281
+Speak with Plants	PHB 282
+Spectral Hand	PHB 282
+Spell Immunity, Greater	PHB 282
+Spell Immunity	PHB 282
+Spell Resistance	PHB 282
+Spellstaff	PHB 282
+Spell Turning	PHB 282
+Spider Climb	PHB 283
+Spike Growth	PHB 283
+Spike Stones	PHB 283
+Spiritual Weapon	PHB 283
+Statue	PHB 284
+Status	PHB 284
+Stinking Cloud	PHB 284
+Stone Shape	PHB 284
+Stoneskin	PHB 285
+Stone Tell	PHB 284
+Stone to Flesh	PHB 284
+Storm of Vengeance	PHB 285
+Suggestion (Mass)	PHB 285
+Suggestion, Mass	PHB 285
+Suggestion	PHB 285
+Summon Instrument	PHB 285
+Summon Monster III	PHB 286
+Summon Monster II	PHB 286
+Summon Monster I	PHB 285
+Summon Monster IV	PHB 286
+Summon Monster IX	PHB 288
+Summon Monster VIII	PHB 287
+Summon Monster VII	PHB 287
+Summon Monster VI	PHB 287
+Summon Monster V	PHB 286
+Summon Nature's Ally III	PHB 288
+Summon Nature's Ally II	PHB 288
+Summon Nature's Ally I	PHB 288
+Summon Nature's Ally IV	PHB 288
+Summon Nature's Ally IX	PHB 289
+Summon Nature's Ally VIII	PHB 289
+Summon Nature's Ally VII	PHB 289
+Summon Nature's Ally VI	PHB 289
+Summon Nature's Ally V	PHB 289
+Summon Swarm	PHB 289
+Sunbeam	PHB 289
+Sunburst	PHB 289
+Symbol of Death	PHB 289
+Symbol of Fear	PHB 290
+Symbol of Insanity	PHB 290
+Symbol of Pain	PHB 290
+Symbol of Persuasion	PHB 290
+Symbol of Sleep	PHB 291
+Symbol of Stunning	PHB 291
+Symbol of Weakness	PHB 291
+Sympathetic Vibration	PHB 291
+Sympathy	PHB 292
+Telekinesis	PHB 292
+Telekinetic Sphere	PHB 259
+Telepathic Bond	PHB 268
+Teleportation Circle	PHB 293
+Teleport (Greater)	PHB 293
+Teleport, Greater	PHB 293
+Teleport Object	PHB 293
+Teleport	PHB 292
+Temporal Stasis	PHB 293
+Time Stop	PHB 294
+Tiny Hut	PHB 247
+Tongues	PHB 294
+Touch of Fatigue	PHB 294
+Touch of Idiocy	PHB 294
+Transformation	PHB 294
+Transmute Metal to Wood	PHB 294
+Transmute Mud to Rock	PHB 295
+Transmute Rock to Mud	PHB 295
+Transport via Plants	PHB 295
+Trap the Soul	PHB 295
+Tree Shape	PHB 296
+Tree Stride	PHB 296
+True Resurrection	PHB 296
+True Seeing	PHB 296
+True Strike	PHB 296
+Undeath to Death	PHB 297
+Undetectable Alignment	PHB 297
+Unhallow	PHB 297
+Unholy Aura	PHB 297
+Unholy Blight	PHB 297
+Unseen Servant	PHB 297
+Vampiric Touch	PHB 298
+Veil	PHB 298
+Ventriloquism	PHB 298
+Virtue	PHB 298
+Vision	PHB 298
+Wail of the Banshee	PHB 298
+Wall of Fire	PHB 298
+Wall of Force	PHB 298
+Wall of Ice	PHB 299
+Wall of Iron	PHB 299
+Wall of Stone	PHB 299
+Wall of Thorns	PHB 300
+Warp Wood	PHB 300
+Water Breathing	PHB 300
+Water Walk	PHB 300
+Waves of Exhaustion	PHB 301
+Waves of Fatigue	PHB 301
+Web	PHB 301
+Weird	PHB 301
+Whirlwind	PHB 301
+Whispering Wind	PHB 301
+Wind Walk	PHB 302
+Wind Wall	PHB 302
+Wish	PHB 302
+Wood Shape	PHB 303
+Word of Chaos	PHB 303
+Word of Recall	PHB 303
+Zone of Silence	PHB 303

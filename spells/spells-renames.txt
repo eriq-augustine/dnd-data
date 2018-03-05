@@ -1,0 +1,100 @@
+Acid Arrow	Melf's Acid Arrow
+Arcane Sight (Greater)	Greater Arcane Sight
+Arcane Sight, Greater	Greater Arcane Sight
+Bear's Endurance (Mass)	Mass Bear's Endurance
+Bear's Endurance, Mass	Mass Bear's Endurance
+Black Tentacles	Evard's Black Tentacles
+Bull's Strength (Mass)	Mass Bull's Strength
+Bull's Strength, Mass	Mass Bull's Strength
+Cat's Grace (Mass)	Mass Cat's Grace
+Cat's Grace, Mass	Mass Cat's Grace
+Charm Monster (Mass)	Mass Charm Monster
+Charm Monster, Mass	Mass Charm Monster
+Clenched Fist	Bigby's Clenched Fist
+Command, Greater	Greater Command
+Confusion, Lesser	Lesser Confusion
+Crushing Hand	Bigby's Crushing Hand
+Cure Critical Wounds, Mass	Mass Cure Critical Wounds
+Cure Light Wounds, Mass	Mass Cure Light Wounds
+Cure Moderate Wounds, Mass	Mass Cure Moderate Wounds
+Cure Serious Wounds, Mass	Mass Cure Serious Wounds
+Dispel Magic (Greater)	Greater Dispel Magic
+Dispel Magic, Greater	Greater Dispel Magic
+Eagle's Splendor (Mass)	Mass Eagle's Splendor
+Eagle's Splendor, Mass	Mass Eagle's Splendor
+Enlarge Person (Mass)	Mass Enlarge Person
+Enlarge Person, Mass	Mass Enlarge Person
+Floating Disk	Tenser's Floating Disk
+Forceful Hand	Bigby's Forceful Hand
+Fox's Cunning (Mass)	Mass Fox's Cunning
+Fox's Cunning, Mass	Mass Fox's Cunning
+Freezing Sphere	Otiluke's Freezing Sphere
+Geas (Lesser)	Lesser Geas
+Geas, Lesser	Lesser Geas
+Globe of Invulnerability (Lesser)	Lesser Globe of Invulnerability
+Globe of Invulnerability, Lesser	Lesser Globe of Invulnerability
+Glyph of Warding, Greater	Greater Glyph of Warding
+Grasping Hand	Bigby's Grasping Hand
+Heal, Mass	Mass Heal
+Heroism (Greater)	Greater Heroism
+Heroism, Greater	Greater Heroism
+Hideous Laughter	Tasha's Hideous Laughter
+Hold Monster (Mass)	Mass Hold Monster
+Hold Monster, Mass	Mass Hold Monster
+Hold Person (Mass)	Mass Hold Person
+Hold Person, Mass	Mass Hold Person
+Inflict Critical Wounds, Mass	Mass Inflict Critical Wounds
+Inflict Light Wounds, Mass	Mass Inflict Light Wounds
+Inflict Moderate Wounds, Mass	Mass Inflict Moderate Wounds
+Inflict Serious Wounds, Mass	Mass Inflict Serious Wounds
+Instant Summons	Drawmij's Instant Summons
+Interposing Hand	Bigby's Interposing Hand
+Invisibility (Greater)	Greater Invisibility
+Invisibility, Greater	Greater Invisibility
+Invisibility (Mass)	Mass Invisibility
+Invisibility, Mass	Mass Invisibility
+Irresistible Dance	Otto's Irresistible Dance
+Mage's Disjunction	Mordenkainen's Disjunction
+Mage's Faithful Hound	Mordenkainen's Faithful Hound
+Mage's Lucubration	Mordenkainen's Lucubration
+Mage's Magnificent Mansion	Mordenkainen's Magnificent Mansion
+Mage's Private Sanctum	Mordenkainen's Private Sanctum
+Mage's Sword	Mordenkainen's Sword
+Magic Aura	Nystul's Magic Aura
+Magic Fang, Greater	Greater Magic Fang
+Magic Weapon (Greater)	Greater Magic Weapon
+Magic Weapon, Greater	Greater Magic Weapon
+Mnemonic Enhancer	Rary's Mnemonic Enhancer
+Owl's Wisdom (Mass)	Mass Owl's Wisdom
+Planar Ally, Greater	Greater Planar Ally
+Planar Ally, Lesser	Lesser Planar Ally
+Planar Binding (Greater)	Greater Planar Binding
+Planar Binding, Greater	Greater Planar Binding
+Planar Binding (Lesser)	Lesser Planar Binding
+Planar Binding, Lesser	Lesser Planar Binding
+Prying Eyes (Greater)	Greater Prying Eyes
+Prying Eyes, Greater	Greater Prying Eyes
+Reduce Person (Mass)	Mass Reduce Person
+Reduce Person, Mass	Mass Reduce Person
+Resilient Sphere	Otiluke's Resilient Sphere
+Restoration, Greater	Greater Restoration
+Restoration, Lesser	Lesser Restoration
+Scrying (Greater)	Greater Scrying
+Scrying, Greater	Greater Scrying
+Secret Chest	Leomund's Secret Chest
+Secure Shelter	Leomund's Secure Shelter
+Shadow Conjuration (Greater)	Greater Shadow Conjuration
+Shadow Conjuration, Greater	Greater Shadow Conjuration
+Shadow Evocation (Greater)	Greater Shadow Evocation
+Shadow Evocation, Greater	Greater Shadow Evocation
+Shout (Greater)	Greater Shout
+Shout, Greater	Greater Shout
+Spell Immunity, Greater	Greater Spell Immunity
+Suggestion (Mass)	Mass Suggestion
+Suggestion, Mass	Mass Suggestion
+Telekinetic Sphere	Otiluke's Telekinetic Sphere
+Telepathic Bond	Rary's Telepathic Bond
+Teleport (Greater)	Greater Teleport
+Teleport, Greater	Greater Teleport
+Tiny Hut	Leomund's Tiny Hut
+Transformation	Tenser's Transformation
